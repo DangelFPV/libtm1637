@@ -1,7 +1,3 @@
-//
-// Created by dangel on 09.11.2025.
-//
-
 #include "tm1637_interface.h"
 
 #define CLK_HIGH() unit->GPIO_CLK->BSRR = unit->PIN_CLK;

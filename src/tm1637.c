@@ -1,7 +1,3 @@
-//
-// Created by dangel on 09.11.2025.
-//
-
 #include "tm1637.h"
 #include "tm1637_interface.h"
 

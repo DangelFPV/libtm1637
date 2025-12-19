@@ -1,7 +1,3 @@
-//
-// Created by dangel on 09.11.2025.
-//
-
 #ifndef DANGEL_TM1637_INTERFACE_H
 #define DANGEL_TM1637_INTERFACE_H
 
